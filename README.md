@@ -1,6 +1,12 @@
 # Proffy
 Uma aplicação que conecta alunos à professores, desenvolvida durante a NextLevelWeek2.
 
+Tela inicial                                                  | Tela de pontos de coleta             |  Detalhes do ponto de coleta
+:------------------------------------------------------------:|:-------------------------:|:-------------------------:
+<img alt="Tela inicial" src="assets/tela_inicial.png" width="200px" />      |  <img alt="Tela de cadastro de professores" src="assets/cadastro.png" width="200px" /> | <img alt="Encontrar professores" src="assets/professores.png" width="200px" />
+
+<img alt="Landing page" src="assets/landing.png" width="75%" />
+
 ## 1º Dia
 Neste primeiro dia da Nlw foi reforçado o funcionamento do React, e os componentes.
 Foi introduzido o conceito de SPA (Single Page Applications) a qual denota
