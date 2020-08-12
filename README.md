@@ -7,7 +7,7 @@ Tela inicial                                                  | Tela de pontos d
 
 <img alt="Landing page" src="assets/landing.png" width="75%" />
 
-## 1º Dia
+### 1º Dia
 Neste primeiro dia da Nlw foi reforçado o funcionamento do React, e os componentes.
 Foi introduzido o conceito de SPA (Single Page Applications) a qual denota
 uma aplicação de uma única página e que não recarrega seu conteúdo.
@@ -19,7 +19,7 @@ o uso da unidade de medida REM do css, em conjunto com a reservada do
 css @media, a qual possibilita a alteração dos estilos baseada em uma
 propriedade do css, neste caso o tamanho mínino da div container.
 
-## 2º Dia
+### 2º Dia
 No segundo dia foi desenvolvido o backend da aplicação, onde foram apresentados
 os conceitos e ferramentas de criação de banco de dados, utilizando a dependência
 knex.js a qual cria esquemas de bancos de dados através do sistema de migrations
@@ -28,20 +28,20 @@ Foram desenvolvidas quatro rotas, as quais foram organizadas de acordo com o
 padrão MVC, e essas rotas servem para o cadastro de aulas, criação de conexões,
 listagem de aulas e listagem de conexões, respectivamente.
 
-## 3º Dia
+### 3º Dia
 No terceiro dia, foi finalizado o frontend web, mais especificamente a tela
 TeacherList, a qual foram introduzidos os conceitos de estado com o useState
 e a função useEffect. O frontend web foi conectado com o servidor através da
 dependência axios, utilizando uma url base e as rotas previamente definidas.
 
-## 4º Dia
+### 4º Dia
 No quarto dia, foi criada a aplicação mobile utilizando react native e o
 expo. Nesta etapa, o foram mostrados as diferenças entre o ReactJS e o
 react native. Foram criadas as telas da aplicação e a navegação utilizando
 o react-navigation. As telas foram estilizadas e os componentes principais
 da aplicação foram posicionados.
 
-## 5º Dia
+### 5º Dia
 No quinto dia, foram feitas as alterações finais na aplicação como os últimos
 componentes a serem utilizados, e a conexão com o backend. A comunicação com
 a API foi realizada através da dependência *Axios* que funciona de uma
