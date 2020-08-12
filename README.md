@@ -41,7 +41,7 @@ react native. Foram criadas as telas da aplicação e a navegação utilizando
 o react-navigation. As telas foram estilizadas e os componentes principais
 da aplicação foram posicionados.
 
-# 5º Dia
+## 5º Dia
 No quinto dia, foram feitas as alterações finais na aplicação como os últimos
 componentes a serem utilizados, e a conexão com o backend. A comunicação com
 a API foi realizada através da dependência *Axios* que funciona de uma
